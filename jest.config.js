@@ -1,7 +1,6 @@
 // eslint-disable-next-line no-undef
 module.exports = {
   roots: ['<rootDir>/src'],
-  setupFilesAfterEnv: ['<rootDir>/jest-setup.js'],
   collectCoverageFrom: [
     '<rootDir>/src/**/*.ts'
   ],
