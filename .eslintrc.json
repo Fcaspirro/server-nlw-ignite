@@ -1,9 +1,16 @@
 {
 	"extends": "standard-with-typescript",
 	"parserOptions": {
-		"project": "./tsconfig.json"
+		"project": "tsconfig.json",
+		"tsconfigRootDir": "nlw-esports-server"
 	},
 	"rules": {
-		"@typescript-eslint/strict-boolean-expressions": "off"
+		"@typescript-eslint/strict-boolean-expressions": "off",
+		"@typescript-eslint/no-misused-promises": [
+			"error",
+			{
+				"checksVoidReturn": false
+			}
+		]
 	}
 }
