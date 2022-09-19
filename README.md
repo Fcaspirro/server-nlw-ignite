@@ -20,7 +20,7 @@ eSports server is an ad lead API for games. You'll be able to register ads in a 
 # Installation
 
 To install this project, run the commands:
-`git clone https://github.com/lucsimao/testlink-facade-api`
+`git clone https://github.com/YuriWitney/nlw-esports-server`
 
 - For npm users
   `npm install`
