@@ -161,6 +161,7 @@ Para explorar e alterar os dados pelo Prisma, utilize:
   » npx prisma studio
 ```
 
+---
  
 <h4 align="center">
 Made by: Fabio Caspirro 😄 <a href="mailto:fabio_caspirro@hotmail.com">Entre em contato | <i>Contact</i></a>
