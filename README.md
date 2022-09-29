@@ -147,6 +147,8 @@ Para copiar o projeto, utilize os comandos:
   # Iniciando servidor | Starting server
   » npm run dev
 ```
+<br>
+
 Para explorar e alterar os dados pelo Prisma, utilize:
  <em>
   <h6>
