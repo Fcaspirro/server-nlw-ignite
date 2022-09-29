@@ -34,12 +34,12 @@
 ><i>About</i> 
 
 <h3>
-A proposta deste projeto foi idealizada pela [Rocketseat](https://www.rocketseat.com.br/) no Next Level Week através da trilha ignite (avançado). O servidor de eSports é uma API de anúncios para jogos onde você pode registrar anúncios de jogos para encontrar sua dupla usando uma conta do Discord.
+A proposta deste projeto foi idealizada pela https://www.rocketseat.com.br/no Next Level Week através da trilha ignite (avançado). O servidor de eSports é uma API de anúncios para jogos onde você pode registrar anúncios de jogos para encontrar sua dupla usando uma conta do Discord.
 </h3>
 
 <em>
   <h6>
-The proposal for this project was conceived by [Rocketseat](https://www.rocketseat.com.br/) in the Next Level Week through the ignite trail (advanced). The eSports server is a gaming ad API where you can register game play ads to find your duo match using a Discord account.
+The proposal for this project was conceived by https://www.rocketseat.com.br/ in the Next Level Week through the ignite trail (advanced). The eSports server is a gaming ad API where you can register game play ads to find your duo match using a Discord account.
   </h6>
 </em>
   
@@ -58,7 +58,7 @@ Projeto disponibilizado no figma:
   </h6>
 </em>
 
-- [FIGMA](https://www.figma.com/community/file/1150897317533332617)
+» [FIGMA](https://www.figma.com/community/file/1150897317533332617)
 
 <br>
 
